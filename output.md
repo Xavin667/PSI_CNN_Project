@@ -27,7 +27,7 @@ TEST_DIR = 'test'
 VALIDATION_DIR = 'validation'
 ```
 
-![output_img_shape] (./output_ss/img_shape.png "Image shape")
+! [output_img_shape] (./output_ss/img_shape.png "Image shape")
 
 ```python
 # Data generator with no data augmentation
@@ -59,7 +59,7 @@ print(f'Data shape: {train_generator[0][0].shape}')
 print(f'Number of classes: {len(train_generator.class_indices)}')
 ```
 
-![data] (./output_ss/data.png "Data")
+! [data] (./output_ss/data.png "Data")
 
 ```python
 #Shallow model
@@ -124,7 +124,7 @@ print('Test loss:', score[0])
 print('Test accuracy:', score[1])
 ```
 
-![vgg16_data] (./output_ss/vgg16_data.png "VGG16 output data")
+! [vgg16_data] (./output_ss/vgg16_data.png "VGG16 output data")
 
 ```python
 # Deep model
