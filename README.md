@@ -1,5 +1,5 @@
-# PSI_Projekt_CNN
-Projekt na przedmiot podstawy sztucznej inteligencji
+# PSI_CNN_Project
+Project for AI fundamentals course
 
-### Baza danych:
+### Databases:
 https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
